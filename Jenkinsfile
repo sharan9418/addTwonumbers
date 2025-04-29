@@ -7,7 +7,7 @@
     stages {
         stage('Checkout') {
             steps {
-                git branch: 'master', url: 'https://github.com/shankar-navali/AddTwoNumbers.git'
+                git branch: 'master', url: 'https://github.com/sharan9418/addTwonumbers.git'
             }
         }
 
